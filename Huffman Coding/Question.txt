@@ -1,0 +1,10 @@
+Write a programs that supports the Huffman coding scheme:
+
+encode:
+This takes as input a text file and outputs a text file of bits where each ASCII character in the input file is replaced
+by the sequence of bits which represents its Huffman code. Each bit is represented by either the character '0' or the character '1'.
+
+
+decode:
+This takes as input a text file of bits (where each bit is given by either the character '0' or the character '1') 
+and outputs a sequence of ASCII characters.
